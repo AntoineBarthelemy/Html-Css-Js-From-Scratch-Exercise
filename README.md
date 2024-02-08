@@ -12,7 +12,6 @@ This repository contains a series of exercises from the "From Scratch" online co
 - [Features](#features)
 - [Course Highlights](#course-highlights)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Project Overview
 
